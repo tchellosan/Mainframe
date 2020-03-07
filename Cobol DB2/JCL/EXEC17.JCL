@@ -1,0 +1,15 @@
+//EAD62517  JOB 'EX COB',CLASS=C,MSGCLASS=X,NOTIFY=&SYSUID              00010000
+//**********************************************************************00010103
+//* EXECUTE PROGRAM EAD62517                                           *00011003
+//**********************************************************************00012003
+//STEP1    EXEC PGM=IKJEFT01,DYNAMNBR=20
+//STEPLIB  DD DISP=SHR,DSN=DSN810.SDSNLOAD
+//DBRMLIB  DD DISP=SHR,DSN=DSN810.DBRMLIB.DATA
+//SYSTSPRT DD SYSOUT=*
+//SYSPRINT DD SYSOUT=*
+//SYSOUT   DD SYSOUT=*
+//SYSTSIN  DD *
+DSN SYSTEM(DB8G)
+RUN PROGRAM(EAD62517) PLAN(EAD62517) -
+    LIB('GR.GERAL.LOADLIB')
+END
