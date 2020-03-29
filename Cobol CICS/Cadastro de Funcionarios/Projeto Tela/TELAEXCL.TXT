@@ -1,0 +1,23 @@
+#A25E#                  #CADASTRO DE FUNCIONARIOS             #DATA:#DD/MM/AAAA
+                                #EXCLUIR                      #HORA:#HH:MM:SS
+#------------------------------------------------------------------------------
+
+
+              #CODIGO DO FUNCIONARIO#XXXX# #CONFIRMA EXCLUSAO?(S/N)#N#
+                                                                   #0
+
+              #NOME.........:#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX#
+
+              #SALARIO......:#999999#,#99#
+
+              #DEPARTAMENTO.:#XXX#
+
+              #ADMISSAO.....:#99#/#99#/#9999#
+
+              #IDADE........:#99#
+
+              #EMAIL........:#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX#
+
+#------------------------------------------------------------------------------
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#F3-MENU                                                               F12-SAIR

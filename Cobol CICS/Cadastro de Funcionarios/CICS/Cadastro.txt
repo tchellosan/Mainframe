@@ -1,0 +1,43 @@
+=============================================================
+OBSERVACAO
+=============================================================
+VINCULAR TODOS RECURSOS A UM MESMO GRUPO, NESTE CASO EAD625.
+
+=============================================================
+CADASTRO
+=============================================================
+CEDA DEF MAP(MAP00CM)
+CEDA DEF PROG(EAD625CM)
+CEDA DEF TRANS(A25M)
+CEDA DEF DB2E(EAD625CM) => BIND PACKAGE
+
+CEDA DEF MAP(MAP00CC)
+CEDA DEF PROG(EAD625CC)
+CEDA DEF TRANS(A25C)
+CEDA DEF DB2E(EAD625CC)
+
+CEDA DEF MAP(MAP00CI)
+CEDA DEF PROG(EAD625CI)
+CEDA DEF TRANS(A25I)
+CEDA DEF DB2E(EAD625CI)
+
+CEDA DEF MAP(MAP00CE)
+CEDA DEF PROG(EAD625CE)
+CEDA DEF TRANS(A25E)
+CEDA DEF DB2E(EAD625CE)
+
+CEDA DEF MAP(MAP00CA)
+CEDA DEF PROG(EAD625CA)
+CEDA DEF TRANS(A25A)
+CEDA DEF DB2E(EAD625CA)
+
+=============================================================
+INSTALL
+=============================================================
+CEDA DIS GR(EAD625)
+
+=============================================================
+NEWCOPY
+=============================================================
+CEMT S PROG(MAP00*) NEW
+CEMT S PROG(EAD625*) NEW

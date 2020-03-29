@@ -1,0 +1,23 @@
+#A25M#                  #CADASTRO DE FUNCIONARIOS             #DATA:#DD/MM/AAAA
+                                #MENU                         #HORA:#HH:MM:SS
+#------------------------------------------------------------------------------
+
+
+              #CODIGO DO FUNCIONARIO#XXXX#
+
+
+              #.#CONSULTAR
+
+              #.#INCLUIR
+
+              #.#EXCLUIR
+
+              #.#ALTERAR
+
+              #.#LISTAR
+
+
+
+#------------------------------------------------------------------------------
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                          #ESC-LIMPAR  F12-SAIR

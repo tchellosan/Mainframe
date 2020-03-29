@@ -1,0 +1,7 @@
+#A251#                       #CALCULADORA                            #DD/MM/AAAA
+                                                                       #HH:MM:SS
+
+              #N1     #OP  #N2     #RESULTADO
+              #9999#  #X#  #9999#   #ZZZZZZZ9
+
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
