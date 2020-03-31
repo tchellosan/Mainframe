@@ -1,0 +1,8 @@
+//GDGBASE  JOB 'EAD625',CLASS=C,MSGCLASS=X,NOTIFY=&SYSUID
+//STEP1    EXEC PGM=IDCAMS
+//SYSPRINT DD SYSOUT=*
+//SYSIN    DD *
+ DEFINE GDG (NAME(GR.EAD625.JOBLIB.GDGBASE) -
+    LIMIT(3)                                -
+    NOEMPTY                                 -
+    SCRATCH )
